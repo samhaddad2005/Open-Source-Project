@@ -3,3 +3,4 @@ This repository aims to act as a open source software that contains many graphin
 ```
 cd src/graphs_shaddad
 ```
+![pic1.png](pics/pic1.png)
