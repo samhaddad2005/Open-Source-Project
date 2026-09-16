@@ -4,4 +4,5 @@ This repository aims to act as a open source software that contains many graphin
 ```
 cd src/graphs_shaddad
 ```
-![alt text](https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+<img width="400" height="324" alt="image" src="https://github.com/user-attachments/assets/567558f2-f349-4434-a844-421b3cdab5ac" />
+
