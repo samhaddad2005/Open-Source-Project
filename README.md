@@ -17,3 +17,12 @@ Explanation:  Shortest Paths:
 0 -> 2 = 7: Path 0 → 1 → 2 gives total cost 4 + 3 = 7, which is smaller than direct edge 8.
 0 -> 3 = 9: Path 0 → 1 → 2 → 3 gives total cost 4 + 3 + 2 = 9.
 0 -> 4 = 10: Path 0 → 1 → 4 gives total cost 4 + 6 = 10.
+
+
+Prim's Algortihm for Minimum Spanning Tree (MST)
+
+Prim’s algorithm is a Greedy algorithm like Kruskal's algorithm. This algorithm always starts with a single node and moves through several adjacent nodes, in order to explore all of the connected edges along the way.
+
+The algorithm starts with an empty spanning tree.
+The idea is to maintain two sets of vertices. The first set contains the vertices already included in the MST, and the other set contains the vertices not yet included.
+At every step, it considers all the edges that connect the two sets and picks the minimum weight edge from these edges. After picking the edge, it moves the other endpoint of the edge to the set containing MST. 
