@@ -1,0 +1,8 @@
+test_env/
+.venv/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+haddad_sam_hwk5

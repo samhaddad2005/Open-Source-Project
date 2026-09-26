@@ -20,4 +20,7 @@ license-files = ["LICEN[CS]E*"]
 
 [project.urls]
 Homepage = "https://github.com/samhaddad2005/Open-Source-Project"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Issues = "https://github.com/samhaddad2005/Open-Source-Project/issues"
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "README.md", "LICENSE"]
